@@ -17,7 +17,7 @@ Ext.define('Tbts.model.ModeloCategorias', {
         { name: 'username', type: 'string' },
         { name: 'alive',    type: 'boolean', defaultValue: true }
          */
-    ],
+    ]
 
 
 
