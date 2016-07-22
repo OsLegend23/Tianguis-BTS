@@ -1,0 +1,26 @@
+{
+  "productos": [
+    {
+      "idProducto": 1,
+      "idCategoria": 1,
+      "descripcion": "champu para las canas",
+      "marca"  : "head&shoulders",
+      "precio": 100,
+      "stockMinimo": 3,
+      "stockActual": 4,
+      "foto"  : "resources/imagenes/champu.jpg"
+    },
+    {
+      "idProducto": 2,
+      "idCategoria": 1,
+      "descripcion": "champu para los que no tienen pelo",
+      "marca"  : "shoulders&head",
+      "precio": 200,
+      "stockMinimo":2,
+      "stockActual":4,
+      "foto"  : "resources/imagenes/champusinpelo.jpg"
+    }
+  ]
+}
+
+

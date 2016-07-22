@@ -1,0 +1,9 @@
+.idea/
+.vscode/
+# The build directory can be recreated by developers using Sencha
+build/
+# Changes every time a build is run
+bootstrap.js
+bootstrap.css
+# Temporary files created when compiling .scss files
+.sass-cache/
